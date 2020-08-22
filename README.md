@@ -6,6 +6,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireldev&layout=compact&theme=dracula">
 </p>
 
-![](https://komarev.com/ghpvc/?username=ireldev&color=ff69b4&label=profile+views)
-![](https://img.shields.io/github/followers/ireldev?color=ff69b4)
-[![](https://img.shields.io/website?up_color=ff69b4&url=https%3A%2F%2Fireldev.github.io%2F)](https://ireldev.github.io)
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=ireldev&color=ff69b4&label=profile+views"</p>
