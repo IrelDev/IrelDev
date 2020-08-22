@@ -5,6 +5,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ireldev&include_all_commits=true&show_icons=true&hide=contribs&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireldev&layout=compact&theme=dracula">
 </p>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=ireldev&color=ff69b4&label=profile+views"</p>
