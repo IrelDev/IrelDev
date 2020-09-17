@@ -3,16 +3,9 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ireldev&include_all_commits=true&show_icons=true&hide=contribs&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireldev&layout=compact&theme=dracula">
 </p>
 
-<p>
-Most popular projects:   
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ireldev&repo=TelegramColorPicker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ireldev&repo=BottomSheet">
-</p>
-<p>
 Latest project:
 </p>
 <p align="center">
