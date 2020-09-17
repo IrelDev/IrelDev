@@ -9,5 +9,7 @@
 Latest project:
 </p>
 <p align="center">
+<a href="https://github.com/IrelDev/Tests">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ireldev&repo=Tests">
+</a>
 </p>
