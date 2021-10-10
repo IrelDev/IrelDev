@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://ireldev.github.io">Kirill Pustovalov</a>🙋🏻</h1>
+<h1 align="center">Hi there, I'm <a href="https://kirillpustovalov.dev">Kirill Pustovalov</a>🙋🏻</h1>
 <p>Welcome to my Github account. I'm iOS & macOS software developer, I love everything about technology and I'm passionate about making software better. You can always check my portfolio by clicking on my name above!</p>
 
 <p align="center"> 
